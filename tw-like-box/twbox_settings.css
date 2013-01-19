@@ -1,0 +1,15 @@
+
+
+#setting_pages .block {
+	padding: 10px 0 10px 0;
+}
+
+#setting_pages .thick_input {
+	width: 60px;
+}
+
+#setting_pages td span {
+	font-size: x-small;
+	font-style: italic;
+}
+

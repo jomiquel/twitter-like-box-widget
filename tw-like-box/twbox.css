@@ -1,0 +1,59 @@
+		#tw_wg_frame  {
+			margin: 5px;
+			padding:5px;
+			border:1px solid #0080ff;
+			overflow: hidden;
+			font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+			font-size: 11px;
+			line-height: 1;
+			color: black;
+			background: white;
+		}
+
+		#tw_wg_frame a {
+			text-decoration: none;
+		}
+
+		#tw_wg_frame a:hover {
+			text-decoration: underline;
+		}
+
+		div.clearfix {
+			height: 1px;
+			width: 1px;
+			display: block;
+			clear: both;
+			content: ".";
+		}
+
+		#tw_wg_frame strong {
+			font-weight: bold;
+		}
+
+		#tw_wg_frame div {
+			padding: 2px;
+		}
+
+		#tw_wg_header {
+			border-bottom: 1px solid #ccc;
+		}
+
+		#tw_img_profile_frame, #tw_profile {
+			float:left;
+		}
+
+		#tw_txt_profile {
+			padding-bottom: 4px;
+		}
+
+		#tw_txt_followers {
+			padding-top:10px;
+		}
+
+		#tw_img_followers {
+			padding-top: 6px;
+		}
+
+		.img_profile {
+			float:left;padding:0 5px 5px 0;
+		}
