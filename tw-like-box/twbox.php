@@ -260,7 +260,6 @@ class twbox_class {
 
 			<div id="tw_img_followers">
 				<?php
-					show_value($this->followers, 'Followers');
 					if ($this->show_faces && $this->followers && count($this->followers))
 					{
 						$number_faces = 0;
